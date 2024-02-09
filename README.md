@@ -58,13 +58,21 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 > The `.exe` executable of the tool is also available for use on Windows. Simply double-click on the executable named `Gemini-KD.exe`.
 
 
-## Dependencies 🛠️
 
-| Library               | Link                                     |
-| ----------------------| -----------------------------------------|
-| PyQt5                 | [PyQt5](https://pypi.org/project/PyQt5/) |
-| Requests              | [Requests](https://pypi.org/project/requests/) |
-| Google Generative AI  | [Google Generative AI](https://pypi.org/project/google-generativeai/) |
+
+
+## Dipendenze 🛠️
+
+| Libreria               | Link                                             |
+| ---------------------- | ------------------------------------------------- |
+| PyQt5                  | [PyQt5](https://pypi.org/project/PyQt5/)         |
+| Requests               | [Requests](https://pypi.org/project/requests/)   |
+| google-generativeai   | [Google Generative AI](https://pypi.org/project/google-generativeai/) |
+
+---
+
+
+
 
 ## Usage 🎮
 
@@ -95,6 +103,22 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 > Remember that security is a priority for us, and our script has been developed with care to ensure the safety of your data and system. If you have further concerns or questions, feel free to contact us.
 > 
 > Thank you for your understanding and support!
+
+
+<p align="center">
+  <img src="https://i.ibb.co/fNsz7Jn/KDTools-3.png" alt="Google Generative Dev Kit Logo">
+</p>
+
+# Welcome to Google Generative AI API Documentation! 🚀
+
+## Registration Process 📋
+
+1. Go to [Google Maker Suite](https://makersuite.google.com/app/apikey).
+2. Complete the registration process.
+3. Once registered, grab your API key. 🔑
+
+
+
 
 
 
