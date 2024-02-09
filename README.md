@@ -56,6 +56,21 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 > [!TIP]
 > **Note for Windows users:**
 > The `.exe` executable of the tool is also available for use on Windows. Simply double-click on the executable named `Gemini-KD.exe`.
+>
+>
+> ### Gemini-KD Application
+>
+> To run the Gemini-KD executable (EXE), follow these steps:
+>
+> Clone the repository using Git:
+> ```bash
+>   git clone https://github.com/DavidAI2024/Gemini-KD.git
+>   ```
+> 
+> 1. **Open the "File" explorer on your Windows machine.**
+> 2. **Navigate to the "Gemini-KD" folder within the cloned repository.**
+> 3. **Double-click on the EXE file to launch the Gemini-KD application.**
+> 4. **ENJOY!**
 
 
 
