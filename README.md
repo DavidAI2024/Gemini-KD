@@ -9,5 +9,6 @@
   <img alt="infogoogle" src="https://img.shields.io/badge/🐦Gemini-Google AI Python SDK-blue?color=magenta">
 </p>
 
-
-  
+| [!ATTENTION]                                                     |
+|------------------------------------------------------------|
+| This project is currently being released and will be available soon |
