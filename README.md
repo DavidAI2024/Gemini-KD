@@ -38,9 +38,25 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 
 ## Getting Started 🚀
 
-1. Clone the repository.
-2. Install dependencies with `pip install -r requirements.txt`.
-3. Run the application using `python main.py`.
+1. **Clone the repository.**
+    ```bash
+    git clone https://github.com/DavidAI2024/Gemini-KD.git
+    ```
+
+2. **Install dependencies using `pip`.**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the application on Linux.**
+    ```bash
+    python main.py
+    ```
+
+> [!NOTE]
+> **Note for Windows users:**
+> The `.exe` executable of the tool is also available for use on Windows. Simply double-click on the executable named `Gemini-KD.exe`.
+
 
 ## Dependencies 🛠️
 
