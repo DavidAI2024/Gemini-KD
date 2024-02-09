@@ -53,7 +53,7 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
     python main.py
     ```
 
-> [!NOTE]
+> [!TIP]
 > **Note for Windows users:**
 > The `.exe` executable of the tool is also available for use on Windows. Simply double-click on the executable named `Gemini-KD.exe`.
 
