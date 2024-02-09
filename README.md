@@ -104,68 +104,70 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 >
 > Please note that the Google Generative AI API is available only in specific countries. If you reside outside these countries, using a VPN with a location set to the USA is sufficient for access.
 >
-> | Country                       | Country                       | Country                       |
-> | ----------------------------- | ----------------------------- | ----------------------------- |
-> | Algeria                       | Samoa americane               | Angola                        |
-> | Anguilla                      | Antartide                     | Antigua e Barbuda             |
-> | Argentina                     | Armenia                       | Aruba                         |
-> | Australia                     | Azerbaigian                   | Bahamas                       |
-> | Bahrein                       | Bangladesh                    | Barbados                      |
-> | Belize                        | Benin                         | Bermuda                       |
-> | Bhutan                        | Bolivia                       | Botswana                      |
-> | Brasile                       | Territorio britannico dell'Oceano Indiano | Isole Vergini Britanniche |
-> | Brunei                        | Burkina Faso                  | Burundi                       |
-> | Capo Verde                    | Cambogia                      | Camerun                       |
-> | Caraibi olandesi               | Isole Cayman                   | Repubblica Centrafricana      |
-> | Ciad                          | Cile                          | Isola Christmas               |
-> | Isole Cocos (Keeling)         | Colombia                      | Comore                        |
-> | Isole Cook                     | Costa d'Avorio                 | Costa Rica                    |
-> | Curaçao                       | Repubblica Democratica del Congo | Gibuti                      |
-> | Dominica                      | Repubblica Dominicana          | Ecuador                       |
-> | Egitto                        | Salvador                      | Guinea Equatoriale             |
-> | Eritrea                       | eSwatini                      | Etiopia                       |
-> | Isole Falkland (Isole Malvine) | Figi                          | Gabon                         |
-> | Gambia                        | Georgia                        | Ghana                         |
-> | Gibilterra                    | Grenada                       | Guam                          |
-> | Guatemala                     | Guernsey                       | Guinea                        |
-> | Guinea-Bissau                 | Guyana                         | Haiti                         |
-> | Isole Heard e McDonald         | Honduras                      | India                         |
-> | Indonesia                     | Iraq                           | Isola di Man                  |
-> | Israele                       | Giamaica                       | Giappone                      |
-> | Jersey                        | Giordania                      | Kazakistan                    |
-> | Kenya                         | Kiribati                       | Kirghizistan                   |
-> | Kuwait                        | Laos                          | Libano                        |
-> | Lesotho                       | Liberia                        | Libia                         |
-> | Madagascar                    | Malawi                         | Malaysia                      |
-> | Maldive                       | Mali                           | Isole Marshall                |
-> | Mauritania                    | Mauritius                      | Messico                       |
-> | Micronesia                    | Mongolia                       | Montserrat                     |
-> | Marocco                       | Mozambico                      | Namibia                       |
-> | Nauru                         | Nepal                          | Nuova Caledonia                |
-> | Nuova Zelanda                 | Nicaragua                      | Niger                         |
-> | Nigeria                       | Niue                           | Isola Norfolk                  |
-> | Isole Marianne settentrionali | Oman                           | Pakistan                      |
-> | Palau                         | Palestina                      | Panama                        |
-> | Papua Nuova Guinea            | Paraguay                       | Perù                          |
-> | Filippine                     | Isole Pitcairn                 | Portorico                      |
-> | Qatar                         | Repubblica del Congo            | Ruanda                        |
-> | Saint-Barthélemy              | Saint Kitts e Nevis            | Santa Lucia                    |
-> | Saint-Pierre e Miquelon        | Saint Vincent e Grenadine      | Sant'Elena, Ascensione e Tristan da Cunha |
-> | Samoa                         | São Tomé e Príncipe            | Arabia Saudita                 |
-> | Senegal                       | Seychelles                     | Sierra Leone                  |
-> | Singapore                     | Isole Salomone                 | Somalia                       |
-> | Sudafrica                     | Georgia del Sud e Sandwich Australi | Corea del Sud               |
-> | Sud Sudan                     | Sri Lanka                      | Sudan                         |
-> | Suriname                      | Taiwan                         | Tagikistan                    |
-> | Tanzania                      | Thailandia                     | Timor Est                     |
-> | Togo                          | Tokelau                        | Tonga                         |
-> | Trinidad e Tobago              | Tunisia                        | Turchia                       |
-> | Turkmenistan                   | Isole Turks e Caicos           | Tuvalu                        |
-> | Uganda                        | Emirati Arabi Uniti            | Stati Uniti                   |
-> | Isole minori esterne degli Stati Uniti d'America | Isole Vergini Americane | Uruguay  |
-> | Uzbekistan                     | Vanuatu                        | Venezuela                     |
-> | Vietnam                        | Wallis e Futuna                | Sahara occidentale             |
-> | Yemen                         | Zambia                         | Zimbabwe                      |
+> | Country                                | Country                          | Country                           |
+> | -------------------------------------- | -------------------------------- | --------------------------------- |
+> | Algeria                               | American Samoa                    | Angola                             |
+> | Anguilla                              | Antarctica                        | Antigua and Barbuda               |
+> | Argentina                             | Armenia                           | Aruba                              |
+> | Australia                             | Azerbaijan                        | Bahamas                            |
+> | Bahrain                               | Bangladesh                        | Barbados                           |
+> | Belize                                | Benin                             | Bermuda                            |
+> | Bhutan                                | Bolivia                           | Botswana                           |
+> | Brazil                                | British Indian Ocean Territory    | British Virgin Islands            |
+> | Brunei                                | Burkina Faso                      | Burundi                            |
+> | Cape Verde                            | Cambodia                          | Cameroon                           |
+> | Dutch Caribbean                       | Cayman Islands                    | Central African Republic           |
+> | Chad                                  | Chile                             | Christmas Island                   |
+> | Cocos (Keeling) Islands               | Colombia                          | Comoros                            |
+> | Cook Islands                          | Ivory Coast                       | Costa Rica                         |
+> | Curaçao                               | Democratic Republic of the Congo  | Djibouti                           |
+> | Dominica                              | Dominican Republic                | Ecuador                            |
+> | Egypt                                 | El Salvador                       | Equatorial Guinea                  |
+> | Eritrea                               | eSwatini                          | Ethiopia                           |
+> | Falkland Islands (Malvinas)           | Fiji                              | Gabon                              |
+> | Gambia                                | Georgia                           | Ghana                              |
+> | Gibraltar                             | Grenada                           | Guam                               |
+> | Guatemala                             | Guernsey                          | Guinea                             |
+> | Guinea-Bissau                         | Guyana                            | Haiti                              |
+> | Heard and McDonald Islands            | Honduras                          | India                              |
+> | Indonesia                             | Iraq                              | Isle of Man                        |
+> | Israel                                | Jamaica                           | Japan                              |
+> | Jersey                                | Jordan                            | Kazakhstan                         |
+> | Kenya                                 | Kiribati                          | Kyrgyzstan                         |
+> | Kuwait                                | Laos                              | Lebanon                            |
+> | Lesotho                               | Liberia                           | Libya                              |
+> | Madagascar                            | Malawi                            | Malaysia                           |
+> | Maldives                              | Mali                              | Marshall Islands                   |
+> | Mauritania                            | Mauritius                         | Mexico                             |
+> | Micronesia                            | Mongolia                          | Montserrat                         |
+> | Morocco                               | Mozambique                        | Namibia                            |
+> | Nauru                                 | Nepal                             | New Caledonia                      |
+> | New Zealand                           | Nicaragua                         | Niger                              |
+> | Nigeria                               | Niue                              | Norfolk Island                     |
+> | Northern Mariana Islands              | Oman                              | Pakistan                           |
+> | Palau                                 | Palestine                         | Panama                             |
+> | Papua New Guinea                      | Paraguay                          | Peru                               |
+> | Philippines                           | Pitcairn Islands                   | Puerto Rico                        |
+> | Qatar                                 | Republic of the Congo              | Rwanda                             |
+> | Saint Barthélemy                      | Saint Kitts and Nevis             | Saint Lucia                        |
+> | Saint Pierre and Miquelon             | Saint Vincent and the Grenadines  | Saint Helena, Ascension and Tristan da Cunha |
+> | Samoa                                 | Sao Tome and Principe             | Saudi Arabia                       |
+> | Senegal                               | Seychelles                        | Sierra Leone                       |
+> | Singapore                             | Solomon Islands                   | Somalia                            |
+> | South Africa                          | South Georgia and the South Sandwich Islands | South Korea                      |
+> | South Sudan                           | Sri Lanka                         | Sudan                              |
+> | Suriname                              | Taiwan                            | Tajikistan                         |
+> | Tanzania                              | Thailand                          | East Timor                         |
+> | Togo                                  | Tokelau                           | Tonga                              |
+> | Trinidad and Tobago                   | Tunisia                           | Turkey                             |
+> | Turkmenistan                          | Turks and Caicos Islands          | Tuvalu                             |
+> | Uganda                                | United Arab Emirates               | United States                      |
+> | United States Minor Outlying Islands  | United States Virgin Islands      | Uruguay                            |
+> | Uzbekistan                            | Vanuatu                           | Venezuela                          |
+> | Vietnam                               | Wallis and Futuna                 | Western Sahara                     |
+> | Yemen                                 | Zambia                            | Zimbabwe                           |
+
+
 
 
 ## License 📝
