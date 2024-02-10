@@ -13,7 +13,9 @@
 
  | 🧋Gemini-KD                                                     |
  |------------------------------------------------------------|
- | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented.** |
+ | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented.
+
+**_Leave a star kindly to support me_** |
 
 </div>
 
