@@ -53,10 +53,11 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
     python main.py
     ```
 
-> [!TIP]
-> **Note per gli utenti Windows:**
-> L'eseguibile `.exe` del tool è disponibile anche per l'uso su Windows. Basta fare doppio clic sull'eseguibile chiamato `Gemini-KD.exe`.
-> **[Visita il sito web di Google Fonts](https://fonts.google.com/specimen/Recursive) per esplorare il carattere "Recursive". Ricorda di installare il carattere "Recursive" di Google localmente.**
+> **[!TIP]**
+> **Note for Windows users:**
+> To use the tool, go to the "Release" section of the repository, download the ZIP file, and locate the executable file named `build.py`. Double-click on the executable to launch the `Gemini-KD` application.
+> 
+> [Visit the Google Fonts website](https://fonts.google.com/specimen/Recursive) to explore the "Recursive" font. Make sure to install Google's "Recursive" font locally.
 > 
 >
 > ### Gemini-KD Application
