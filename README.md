@@ -78,7 +78,7 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 
 
 
-## Dipendenze 🛠️
+## Dependencies 🛠️
 
 | Libreria               | Link                                             |
 | ---------------------- | ------------------------------------------------- |
