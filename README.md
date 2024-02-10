@@ -16,10 +16,9 @@
  | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented**.|
 
 <div style="display: flex; align-items: center;">
-    <img src="https://i.ibb.co/s9MXhyJ/stars.png" width="50px" style="margin-right: 10px; margin-bottom: 34px;" />
+    <img src="https://i.ibb.co/s9MXhyJ/stars.png" width="50px" style="margin-right: 10px;" />
     <span><em>Leave a star 🌟 to support me</em></span>
 </div>
-
 
 </div>
 
