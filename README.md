@@ -15,8 +15,10 @@
  |------------------------------------------------------------|
  | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented**.|
 <div align="center">
-  <img width="300" src="https://i.ibb.co/BsC0dpH/KDTools-6.png">
+  <img width="300" src="https://i.ibb.co/s9MXhyJ/stars.png">
 </div>
+
+_Leave a star to support me ⭐️🥳_
 
 </div>
 
