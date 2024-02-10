@@ -15,11 +15,13 @@
  |------------------------------------------------------------|
  | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented**.|
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://i.ibb.co/s9MXhyJ/stars.png" width="50px" style="margin-bottom: 5px;" />
     <span><em>Leave a star 🌟 to support me</em></span>
+  </div>
+  <img width="300" src="https://i.ibb.co/BsC0dpH/KDTools-6.png">
 </div>
-
 </div>
 
 # <img src="https://i.ibb.co/5Tb5vpt/Google-Bard-logo-svg-1.png" width="28px" /> Introduction
