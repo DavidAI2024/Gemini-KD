@@ -80,7 +80,7 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
 
 ## Dependencies 🛠️
 
-| Libreria               | Link                                             |
+| Library               | Link                                             |
 | ---------------------- | ------------------------------------------------- |
 | PyQt5                  | [PyQt5](https://pypi.org/project/PyQt5/)         |
 | Requests               | [Requests](https://pypi.org/project/requests/)   |
