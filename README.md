@@ -15,7 +15,7 @@
  |------------------------------------------------------------|
  | **This project is in the Alpha phase, over time it will be improved, and other features will be implemented**.|
 
-_Leave a star kindly to support me_ 
+_Leave a star kindly to support me ⭐️🥳_ 
 
 </div>
 
