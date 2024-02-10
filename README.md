@@ -53,7 +53,7 @@ Welcome to KDGemini-pro, an innovative desktop application leveraging Google's G
     python main.py
     ```
 
-> **[!TIP]**
+> [!TIP]
 > **Note for Windows users:**
 > To use the tool, go to the "Release" section of the repository, download the ZIP file, and locate the executable file named `build.py`. Double-click on the executable to launch the `Gemini-KD` application.
 > 
