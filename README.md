@@ -18,7 +18,7 @@
   <img width="30" src="https://i.ibb.co/s9MXhyJ/stars.png">
 </div>
 
-_Leave a star to support me ⭐️🥳_
+_Leave a star to support me_ ⭐️
 
 </div>
 
